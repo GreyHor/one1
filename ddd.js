@@ -1,2 +1,2 @@
-let one1 = {};
+let one1 = [];
 console.log(one1);
